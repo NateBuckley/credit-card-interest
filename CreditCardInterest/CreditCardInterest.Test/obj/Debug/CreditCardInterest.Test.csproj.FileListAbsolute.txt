@@ -1,0 +1,9 @@
+C:\Users\Nate\documents\visual studio 2010\Projects\CreditCardInterest\CreditCardInterest.Test\obj\Debug\CreditCardInterest.Test.csprojResolveAssemblyReference.cache
+C:\Users\Nate\documents\visual studio 2010\Projects\CreditCardInterest\CreditCardInterest.Test\bin\Debug\CreditCardInterest.Test.dll
+C:\Users\Nate\documents\visual studio 2010\Projects\CreditCardInterest\CreditCardInterest.Test\bin\Debug\CreditCardInterest.Test.pdb
+C:\Users\Nate\documents\visual studio 2010\Projects\CreditCardInterest\CreditCardInterest.Test\bin\Debug\CreditCardInterest.exe
+C:\Users\Nate\documents\visual studio 2010\Projects\CreditCardInterest\CreditCardInterest.Test\bin\Debug\nunit.framework.dll
+C:\Users\Nate\documents\visual studio 2010\Projects\CreditCardInterest\CreditCardInterest.Test\bin\Debug\CreditCardInterest.pdb
+C:\Users\Nate\documents\visual studio 2010\Projects\CreditCardInterest\CreditCardInterest.Test\bin\Debug\nunit.framework.xml
+C:\Users\Nate\documents\visual studio 2010\Projects\CreditCardInterest\CreditCardInterest.Test\obj\Debug\CreditCardInterest.Test.dll
+C:\Users\Nate\documents\visual studio 2010\Projects\CreditCardInterest\CreditCardInterest.Test\obj\Debug\CreditCardInterest.Test.pdb

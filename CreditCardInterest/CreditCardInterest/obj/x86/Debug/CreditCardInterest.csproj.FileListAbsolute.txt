@@ -1,0 +1,4 @@
+C:\Users\Nate\documents\visual studio 2010\Projects\CreditCardInterest\CreditCardInterest\bin\Debug\CreditCardInterest.exe
+C:\Users\Nate\documents\visual studio 2010\Projects\CreditCardInterest\CreditCardInterest\bin\Debug\CreditCardInterest.pdb
+C:\Users\Nate\documents\visual studio 2010\Projects\CreditCardInterest\CreditCardInterest\obj\x86\Debug\CreditCardInterest.exe
+C:\Users\Nate\documents\visual studio 2010\Projects\CreditCardInterest\CreditCardInterest\obj\x86\Debug\CreditCardInterest.pdb

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\Nate\Documents\Visual Studio 2010\Projects\CreditCardInterest\CreditCardInterest.Test\bin\Debug\CreditCardInterest.Test.dll" total="1" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2016-06-23" time="16:44:16">
+  <environment nunit-version="2.5.10.11092" clr-version="2.0.50727.4253" os-version="Microsoft Windows NT 6.0.6002 Service Pack 2" platform="Win32NT" cwd="C:\Program Files\NUnit 2.5.10\bin\net-2.0" machine-name="ANONYMOUS-PC" user="Nate" user-domain="Anonymous-PC" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\Nate\Documents\Visual Studio 2010\Projects\CreditCardInterest\CreditCardInterest.Test\bin\Debug\CreditCardInterest.Test.dll" executed="True" result="Success" success="True" time="0.010" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="CreditCardInterest" executed="True" result="Success" success="True" time="0.010" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Test" executed="True" result="Success" success="True" time="0.009" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="Tests" executed="True" result="Success" success="True" time="0.007" asserts="0">
+                <results>
+                  <test-case name="CreditCardInterest.Test.Tests.Test3" executed="True" result="Success" success="True" time="0.003" asserts="0" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
